@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\SCRIPT RAPCHIEUPHIM(1).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:SCRIPT RAPCHIEUPHIM(1).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qlkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\frmhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\datve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\qltichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qltichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\qltichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qltichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\rapchieuphim\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\qlhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC709C52-6055-470F-BA49-AE04DF26EB4C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\businesslayer\\qlytichdiembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC709C52-6055-470F-BA49-AE04DF26EB4C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\qlytichdiembl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC709C52-6055-470F-BA49-AE04DF26EB4C}|BusinessLayer\\BusinessLayer.csproj|c:\\users\\anh duong\\documents\\ltcsdl\\okkkk\\ok\\businesslayer\\khachhangbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC709C52-6055-470F-BA49-AE04DF26EB4C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\khachhangbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CEF21C-E589-4F40-A334-250B34869330}|DataLayer\\DataLayer.csproj|C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\datalayer\\dataprovier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CEF21C-E589-4F40-A334-250B34869330}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\dataprovier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC709C52-6055-470F-BA49-AE04DF26EB4C}|BusinessLayer\\BusinessLayer.csproj|C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\businesslayer\\nhanvienbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC709C52-6055-470F-BA49-AE04DF26EB4C}|BusinessLayer\\BusinessLayer.csproj|solutionrelative:businesslayer\\nhanvienbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CEF21C-E589-4F40-A334-250B34869330}|DataLayer\\DataLayer.csproj|C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\datalayer\\khachhangdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CEF21C-E589-4F40-A334-250B34869330}|DataLayer\\DataLayer.csproj|solutionrelative:datalayer\\khachhangdl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\TRIGGER.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:TRIGGER.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\STORED PROCEDURE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:STORED PROCEDURE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\rapchieuphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDA5611-AABB-4FB5-BAE7-37A13D591D96}|Rapchieuphim\\Rapchieuphim.csproj|solutionrelative:rapchieuphim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\SCRIPT RAPCHIEUPHIM(1).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:SCRIPT RAPCHIEUPHIM(1).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\SCRIPT RAPCHIEUPHIM(1).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|SCRIPT SQL{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:SCRIPT RAPCHIEUPHIM(1).sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatVe.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\DatVe.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\DatVe.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\DatVe.cs",
+              "RelativeToolTip": "Rapchieuphim\\DatVe.cs",
+              "ViewState": "AgIAABUAAAAA+v////8TwDwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:50:02.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\frmHoaDon.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\frmHoaDon.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\frmHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:50:57.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\frmHoaDon.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\frmHoaDon.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\frmHoaDon.cs",
+              "RelativeToolTip": "Rapchieuphim\\frmHoaDon.cs",
+              "ViewState": "AgIAAKQAAAAAGAAAAAD+vxEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:51:04.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SCRIPT RAPCHIEUPHIM(1).sql ",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\SCRIPT RAPCHIEUPHIM(1).sql",
+              "RelativeDocumentMoniker": "SCRIPT RAPCHIEUPHIM(1).sql",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\SCRIPT RAPCHIEUPHIM(1).sql",
+              "RelativeToolTip": "SCRIPT RAPCHIEUPHIM(1).sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T05:34:56.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QLKhachHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLKhachHang.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QLKhachHang.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLKhachHang.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\QLKhachHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:01:12.179Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QLKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLKhachHang.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QLKhachHang.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLKhachHang.cs",
+              "RelativeToolTip": "Rapchieuphim\\QLKhachHang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:01:09.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatVe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\DatVe.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\DatVe.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\DatVe.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\DatVe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T15:03:03.654Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QLTichDiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLTichDiem.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QLTichDiem.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLTichDiem.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\QLTichDiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:48:09.086Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "QLHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLHoaDon.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QLHoaDon.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLHoaDon.cs",
+              "RelativeToolTip": "Rapchieuphim\\QLHoaDon.cs",
+              "ViewState": "AgIAAEkAAAAAbmZmZqYhwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:52:10.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "QLTichDiem.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLTichDiem.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QLTichDiem.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLTichDiem.cs",
+              "RelativeToolTip": "Rapchieuphim\\QLTichDiem.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwH4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:48:13.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QLYTICHDIEMBL.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\BusinessLayer\\QLYTICHDIEMBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\QLYTICHDIEMBL.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\BusinessLayer\\QLYTICHDIEMBL.cs",
+              "RelativeToolTip": "BusinessLayer\\QLYTICHDIEMBL.cs",
+              "ViewState": "AgIAAC8AAAAAmpmZmZn3v0sAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:51:38.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QLHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLHoaDon.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\QLHoaDon.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\QLHoaDon.cs [Design]",
+              "RelativeToolTip": "Rapchieuphim\\QLHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:52:05.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "STORED PROCEDURE.sql",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\STORED PROCEDURE.sql",
+              "RelativeDocumentMoniker": "STORED PROCEDURE.sql",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\STORED PROCEDURE.sql",
+              "RelativeToolTip": "STORED PROCEDURE.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T05:45:32.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KhachHangBL.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\BusinessLayer\\KhachHangBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\KhachHangBL.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\BusinessLayer\\KhachHangBL.cs",
+              "RelativeToolTip": "BusinessLayer\\KhachHangBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:52:09.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataProvier.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\DataLayer\\DataProvier.cs",
+              "RelativeDocumentMoniker": "DataLayer\\DataProvier.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\DataLayer\\DataProvier.cs",
+              "RelativeToolTip": "DataLayer\\DataProvier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:34:48.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TRIGGER.sql",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\TRIGGER.sql",
+              "RelativeDocumentMoniker": "TRIGGER.sql",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\TRIGGER.sql",
+              "RelativeToolTip": "TRIGGER.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-13T05:46:55.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "KhachHangDL.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\DataLayer\\KhachHangDL.cs",
+              "RelativeDocumentMoniker": "DataLayer\\KhachHangDL.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\DataLayer\\KhachHangDL.cs",
+              "RelativeToolTip": "DataLayer\\KhachHangDL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:52:01.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NhanVienBL.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\BusinessLayer\\NhanVienBL.cs",
+              "RelativeDocumentMoniker": "BusinessLayer\\NhanVienBL.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\BusinessLayer\\NhanVienBL.cs",
+              "RelativeToolTip": "BusinessLayer\\NhanVienBL.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAYwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:52:07.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\Program.cs",
+              "RelativeDocumentMoniker": "Rapchieuphim\\Program.cs",
+              "ToolTip": "C:\\Users\\anh duong\\Documents\\LTCSDL\\okkkk\\ok\\Rapchieuphim\\Program.cs",
+              "RelativeToolTip": "Rapchieuphim\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T05:33:29.381Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
